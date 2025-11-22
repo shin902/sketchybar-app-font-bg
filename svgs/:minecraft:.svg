@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 100 100">
+    <path d="M50 5 L95 27.5 L50 50 L5 27.5 Z" fill="#ffffff"/>
+    <path d="M5 27.5 L5 45 L15 45 L15 55 L25 55 L25 60 L35 60 L35 55 L45 55 L45 50 L50 50 L55 50 L55 55 L65 55 L65 60 L75 60 L75 55 L85 55 L85 45 L95 45 L95 27.5 L50 50 Z" fill="#ffffff"/>
+
+    <path d="M5 45 L11 45 L11 74 L50 93.5 L50 99.5 L5 77 Z" fill="#ffffff"/>
+    
+    <path d="M95 45 L89 45 L89 74 L50 93.5 L50 99.5 L95 77 Z" fill="#ffffff"/>
+
+    <path d="M47 50 L53 50 L53 97.5 L47 97.5 Z" fill="#ffffff"/>
+</svg>
